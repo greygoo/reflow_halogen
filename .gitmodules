@@ -1,0 +1,9 @@
+[submodule "kicad_ArduinoNano"]
+	path = kicad_ArduinoNano
+	url = git@github.com:kiwichrish/kicad_ArduinoNano.git
+[submodule "KiCad-libraries"]
+	path = KiCad-libraries
+	url = git@github.com:HuntieDK/KiCad-libraries.git
+[submodule "STM8_samples"]
+	path = STM8_samples
+	url = git@github.com:eddyem/STM8_samples.git
